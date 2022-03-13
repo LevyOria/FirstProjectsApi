@@ -1,0 +1,46 @@
+.containerTop{
+    background: rgb(218, 218, 218);
+}
+.containerTop h1{
+color:rgb(94, 94, 94);
+font-family:Garamond ;
+font-size: 60px;
+}
+.containerTop h4{
+    background: rgb(218, 218, 218);
+    font-family:Cursive ;
+}
+.navbar{
+    min-height: 50px;
+
+    font-family:Garamond ;
+    background: radial-gradient(circle, rgb(202, 205, 209) 1%, rgb(139, 100, 124) 11%, rgba(173,84,131,1) 17%, rgb(115, 97, 122) 27%, rgb(182, 185, 189) 42%, rgb(201, 190, 195) 57%, rgb(206, 206, 206) 74%, rgb(218, 218, 223) 86%, rgb(199, 206, 231) 92%);
+}
+
+
+
+.About h2{
+    font-family:Garamond ;
+}
+.About {
+    text-align: center;
+    min-height: 150px;
+    background: rgb(218, 218, 218);
+
+}
+
+.Resources{
+    background: rgb(218, 218, 218);
+
+}
+.Routes{
+    background: rgb(218, 218, 218);
+
+}
+
+.footer{
+    min-height: 50px;
+    font-family:Garamond ;
+    background: radial-gradient(circle, rgb(202, 205, 209) 1%, rgb(139, 100, 124) 11%, rgba(173,84,131,1) 17%, rgb(115, 97, 122) 27%, rgb(182, 185, 189) 42%, rgb(201, 190, 195) 57%, rgb(206, 206, 206) 74%, rgb(218, 218, 223) 86%, rgb(199, 206, 231) 92%);
+ 
+}
